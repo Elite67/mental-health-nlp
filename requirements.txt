@@ -1,0 +1,11 @@
+streamlit==1.45.1
+streamlit-elements==0.1.0
+google-genai==1.19.0
+transformers==4.52.4
+huggingface-hub==0.33.0
+torch==2.7.1
+pandas==2.3.0
+numpy==2.2.6
+protobuf==6.31.1
+requests==2.32.4
+typing_extensions==4.14.0
